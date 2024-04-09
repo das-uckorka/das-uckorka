@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @das-uckorka
-- 👀 I’m interested in programming, APIs and 3D-modeling
-- 🌱 I’m currently learning C++ and APIs
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in low-lewel programming (as low as I can now) and AI
+- 🌱 I’m currently learning C++ and robotics
 - 📫 How to reach me gameruckorka@gmail.com
 
 <!---
